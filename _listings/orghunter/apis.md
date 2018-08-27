@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-
 x-kinRank: "7"
 x-alexaRank: "2914633"
 tags: Charities
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/apis.md
 specificationVersion: "0.14"
 apis:
@@ -169,6 +169,84 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitysearch-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitysearch-post-openapi.md
+- name: Org Hunter - Get summary data!
+  x-api-slug: v1charitysearch-post
+  description: This operation provides summary data.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  humanURL: http://orghunter.com
+  baseURL: https://data.orghunter.com//
+  tags: Technology, internet, API Provider, Charities, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitysearch-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitysearch-post-openapi.md
+- name: Org Hunter - Get details!
+  x-api-slug: v1charitypremium-post
+  description: This operation detail data.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  humanURL: http://orghunter.com
+  baseURL: https://data.orghunter.com//
+  tags: Technology, internet, API Provider, Charities, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitypremium-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitypremium-post-openapi.md
+- name: Org Hunter - Get details!
+  x-api-slug: v1charitygeolocation-post
+  description: This operation detail data.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  humanURL: http://orghunter.com
+  baseURL: https://data.orghunter.com//
+  tags: Technology, internet, API Provider, Charities, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitygeolocation-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitygeolocation-post-openapi.md
+- name: Org Hunter - Get details!
+  x-api-slug: v1charityfinancial-post
+  description: This operation detail data.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  humanURL: http://orghunter.com
+  baseURL: https://data.orghunter.com//
+  tags: Technology, internet, API Provider, Charities, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charityfinancial-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charityfinancial-post-openapi.md
+- name: Org Hunter - Get details!
+  x-api-slug: v1charitybasic-post
+  description: This operation detail data.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  humanURL: http://orghunter.com
+  baseURL: https://data.orghunter.com//
+  tags: Technology, internet, API Provider, Charities, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitybasic-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1charitybasic-post-openapi.md
+- name: Org Hunter - Get categories!
+  x-api-slug: v1categories-post
+  description: This operation provides a list of categories.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28476-org-hunter.jpg
+  humanURL: http://orghunter.com
+  baseURL: https://data.orghunter.com//
+  tags: Technology, internet, API Provider, Charities, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1categories-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/charities/master/_listings/orghunter/v1categories-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://openstreetmap.api.gallery.streamdata.io

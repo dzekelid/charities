@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: OrgHunter
 x-complete: 1
@@ -131,4 +130,3 @@ paths:
       tags:
       - Charity
       - Search
----
